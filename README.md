@@ -17,7 +17,7 @@ Fone: (0xx11) 2091-5839 Celular: (0xx11) 98362-9013
 </center>
 <br>
 <br>
-<img src="Imagens/foto.jpeg" width="20%">
+<img src="foto.jpeg" width="20%">
 <br><br>
 <li>Idade: 49 anos</li>
 <br>
