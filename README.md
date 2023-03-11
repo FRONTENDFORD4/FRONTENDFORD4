@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Atividade 1 Turma 4</title>
 </head>
 <body bgcolor="WHITE">
 <center>
