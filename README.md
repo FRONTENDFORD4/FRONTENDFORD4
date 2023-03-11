@@ -80,21 +80,16 @@ Melhoras práticas de ITIL documentação, padronização de identificação de 
 <br>
 TI. .</li>
 <br>
-<li>Tecnologia e Eletricidade Automotiva | SENAI Mariano Ferraz (120 horas)
+<li>
 <br>
-Módulos: Desenvolvimento de Competências Relativas à Montagem e Preparação de
-Sistemas Elétricos e de Equipamentos Auxiliares em Veículos Leves</li>
+</li>
 <br>
-<li>Mecânico de Manutenção | SENAI "Roberto Simonsen" (1600 horas)
+<li>
 <br>
-Módulos: Cálculos Aplicados, Desenho Técnico, Fundamentos da Manutenção,
-<br>Soldagem Aplicada a Manutenção,
-Técnicas de Lubrificação e Inspeção e Comissionamento.</li>
+</li>
 <br>
-<li>Eletricista de Manutenção | SENAI "Roberto Simonsen" (1600)
+<li>
 <br>
-Módulos: Ciências Aplicadas, Matématica Aplicada, Eletricidade, Instalações Elétricas
-Prediais,
-<br>Sistemas Eletroeletrônicos Prediais e Máquinas Elétricas e Acionamento. </li>
+<br></li>
 </body>
 </hmtl
