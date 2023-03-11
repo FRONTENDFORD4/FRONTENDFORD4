@@ -1,10 +1,10 @@
 <html>
 <head>
 <title>
- ? Brasileiro, Solteiro, 
-? Endereço:  Tatuapé 
-? CEP: 03322-001 - São Paulo - SP/ Zona Leste 
-? Fone: (0xx11) 2091-5839 Celular: 98362-9013 
+Brasileiro, Solteiro, 
+Endereço:  Tatuapé 
+CEP: 03322-001 - São Paulo - SP/ Zona Leste 
+Fone: (0xx11) 2091-5839 Celular: 98362-9013 
 </title>
 <style type"text/css">
 .container img{
@@ -40,25 +40,29 @@ float: left;
 <li></li>
 <br>
 <li>
- ? Coordenador de Suporte Técnico / Analista de Infra-estrutura de TI 
+Coordenador de Suporte Técnico / Analista de Infra-estrutura de TI 
 </li> <hr /> <p/>
 <h3> EXPERIÊNCIA PROFISSIONAL.</h3>
 <li></li>
 <hr / >
 <h3>
 SONDA IT S.A. 11/03/2020 à Atual ( Via Varejo)
+
 AgenciaClickIsobar Midia Interativa S.A. 01/04/2015 à 01/04/2016 ( Grupo Dentsuaegis ) 
+
 Tata Consultancy Services do Brasil LTDA 07/10/ 2013 à 03/04/2015 ( Cliente Agenciaclickisobar ) 
+
 Esferatech Serviços de Tecnologia da Informação LTDA 15/04/2013 à 14/10/2013 ( Cliente Agenciaclickisobar ) 
-INFOSOL Soluções de Informática LTDA 15/08/2012 à 14/04/2013 ( Cliente Agenciaclickisobar ) </h3>
+
+ INFOSOL Soluções de Informática LTDA 15/08/2012 à 14/04/2013 ( Cliente Agenciaclickisobar ) </h3>
 <li>
- Analista de Suporte - Service Desk ( Suporte a pacote MS-Office 365, Windows, Mac) 
+Analista de Suporte - Service Desk ( Suporte a pacote MS-Office 365, Windows, Mac) 
 <br>
 Suporte instalações de softwares e aplicativos para MAC até última versão Yosemite. 
 <li>
 Clientes Internos , externos, Projetos Específicos. 
 <br>
-Manutenção Corretiva em Desktops e Notebooks . 
+Manutenção Corretiva em Desktops e Notebooks. 
 <li>
 Monitoramento e diagnósticos de todas as impressoras de rede. 
 <br>
