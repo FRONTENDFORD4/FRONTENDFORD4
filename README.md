@@ -3,8 +3,9 @@
 Dados:
 
 Brasileiro, Solteiro, 
-Endereço:  Tatuapé 
-CEP: 03322-001 - São Paulo - SP/ Zona Leste 
+
+Endereço:Tatuapé CEP: 03322-001 - São Paulo - SP/ Zona Leste 
+
 Fone: (0xx11) 2091-5839 Celular: 98362-9013 
 
 </head>
