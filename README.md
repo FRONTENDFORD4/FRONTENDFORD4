@@ -15,7 +15,7 @@ float: left;
 <body text="black" bgcolor="beige">
 <div class="container">
 <center>
-<h1>David Franco de Menezes Junior </h1>
+<h1>David Franco de Menezes Junior</h1>
 </center>
 <br>
 <br>
@@ -31,21 +31,18 @@ float: left;
 <br>
 <li>Linkedin:davidjunior</li>
 <br>
-<br>
 <hr />
 <center>
 <p>
 <h3>OBJETIVO</h3>
-<p>
-<li></li>
 <br>
 <li>
 Coordenador de Suporte Técnico / Analista de Infra-estrutura de TI 
 </li> <hr /> <p/>
 <h3> EXPERIÊNCIA PROFISSIONAL.</h3>
-<li></li>
 <hr / >
 <h3>
+
 SONDA IT S.A. 11/03/2020 à Atual ( Via Varejo)
 
 AgenciaClickIsobar Midia Interativa S.A. 01/04/2015 à 01/04/2016 ( Grupo Dentsuaegis ) 
